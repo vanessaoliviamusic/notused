@@ -20,4 +20,4 @@ plugins:
   - jekyll-paginate
   
   
-color:             ffffff
+color:             &D
