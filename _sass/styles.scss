@@ -1,4 +1,10 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
 
-color: 'f8f8f8'
+@import "variables";
+
+.page-header {
+  color: "ffffff";
+  background-color: "f8f8f8";
+
+}
