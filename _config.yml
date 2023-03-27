@@ -20,4 +20,4 @@ plugins:
   - jekyll-paginate
   
   
-"colors.background":  "#ffffff",
+color:             ffffff
