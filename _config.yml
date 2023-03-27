@@ -1,15 +1,15 @@
-title:             Square Zero
-email:             sssurajsuraj@gmail.com
-description:       Silent Observations
-author:            J
+title:             Vanessa Olivia
+email:             jujubejag@yahoo.com
+description:       Music
+author:            Julie
 #url:               "localhost:4000"
-url:               "http://squarezero.github.io/"
+url:               "http://vanessaoliviamusic.github.io/"
 baseurl:
 
 # Social Profiles
-#twitter_username:  SBootstrap
-#github_username:   BlackrockDigital
-#facebook_username: StartBootstrap
+#twitter_username:  twitter
+#github_username:   vanessaoliviamusic
+#facebook_username: facebook
 
 # Build settings
 markdown:          kramdown
